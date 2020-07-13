@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "820343406766",
+    "firebase_url": "https://workout-journal-cb338.firebaseio.com",
+    "project_id": "workout-journal-cb338",
+    "storage_bucket": "workout-journal-cb338.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820343406766:android:fdbf06b1e6bbfe5819ed3f",
+        "android_client_info": {
+          "package_name": "com.example.workoutjournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820343406766-ea3j032hcft1n3afuong8niq8i98b98p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI9shnw7-eq9NuyJ5HV5dBDHDyn7EOTK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820343406766-ea3j032hcft1n3afuong8niq8i98b98p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

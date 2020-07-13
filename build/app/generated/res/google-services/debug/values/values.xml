@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">820343406766-ea3j032hcft1n3afuong8niq8i98b98p.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://workout-journal-cb338.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">820343406766</string>
+    <string name="google_api_key" translatable="false">AIzaSyCI9shnw7-eq9NuyJ5HV5dBDHDyn7EOTK0</string>
+    <string name="google_app_id" translatable="false">1:820343406766:android:fdbf06b1e6bbfe5819ed3f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCI9shnw7-eq9NuyJ5HV5dBDHDyn7EOTK0</string>
+    <string name="google_storage_bucket" translatable="false">workout-journal-cb338.appspot.com</string>
+    <string name="project_id" translatable="false">workout-journal-cb338</string>
+</resources>
